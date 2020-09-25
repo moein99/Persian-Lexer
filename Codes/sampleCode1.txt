@@ -1,0 +1,10 @@
+number = 4
+salary = 1000
+print(salary)
+if salary > 500:
+    print("rich")
+else:
+    print("poor")
+
+salary = tax * income
+
